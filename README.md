@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a data enthusiast with a keen interest in tran
 - Languages: SQL, Python 🐍.
 - Data Analysis Libraries: Pandas, NumPy, Matplotlib, Seaborn.
 - Databases: PostgreSQL, SQLite.
-- Data Visualization: Power BI, Tableau.
 - Spreadsheet Tools: Microsoft Excel 📈, Google Sheets 📊.
+- Data Visualization: Power BI, Tableau.
 
 ## 📧 Let's Connect!
 
